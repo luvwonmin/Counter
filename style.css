@@ -1,0 +1,12 @@
+#number{
+	display:block;
+	text-align:center;
+	font-size:50px;
+	margin-bottom:300px;
+}
+#text{
+    color:#464e47;
+    text-align:center;
+	margin-left:400px;
+	margin-bottom:400px;
+}
